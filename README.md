@@ -1,6 +1,6 @@
-# 🏥 Hospital Emergency Room Analytics Dashboard
+# Hospital Emergency Room Analytics Dashboard
 
-## 📊 Project Overview
+## Project Overview
 The **Hospital Emergency Room Analytics Dashboard** is a data analytics project designed to analyze and monitor key operational metrics of a hospital emergency department. The goal of this project is to evaluate patient flow, service efficiency, and department referrals to identify opportunities for improving hospital operations and patient care.
 
 This dashboard provides an interactive visualization of emergency room data, enabling healthcare administrators and analysts to quickly understand trends in patient admissions, waiting times, demographic distribution, and departmental referrals.
@@ -9,7 +9,7 @@ By transforming raw healthcare data into meaningful insights, the dashboard supp
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 The main objectives of this project are:
 
 - Analyze emergency room patient data to monitor operational performance.
@@ -29,7 +29,7 @@ The main objectives of this project are:
 
 ---
 
-## 📂 Dataset Description
+## Dataset Description
 The dataset used in this project contains emergency room patient records including:
 
 - Patient ID
@@ -44,27 +44,27 @@ The data was cleaned and transformed using **Power Query** to ensure consistency
 
 ---
 
-## 📈 Key Dashboard Insights
+## Key Dashboard Insights
 The dashboard provides several analytical views to understand emergency room operations:
 
-### 1️⃣ Patient Admission Analysis
+### 1️. Patient Admission Analysis
 Tracks the number of patients admitted versus those not admitted to the hospital. This helps understand the severity of cases handled by the emergency department.
 
-### 2️⃣ Patient Age Distribution
+### 2️. Patient Age Distribution
 Patients are categorized into **10-year age groups** to identify which age groups frequently visit the emergency room.
 
-### 3️⃣ Department Referral Trends
+### 3️. Department Referral Trends
 Analyzes the departments to which patients are referred after emergency treatment. This helps hospital management understand department workload distribution.
 
-### 4️⃣ Timeliness of Service
+### 4️. Timeliness of Service
 Measures the **percentage of patients attended within 30 minutes**, which is a key performance indicator for emergency room efficiency.
 
-### 5️⃣ Gender Distribution
+### 5️. Gender Distribution
 Shows the distribution of patients based on gender to understand demographic trends in emergency visits.
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 ### Emergency Room Dashboard
 
@@ -92,7 +92,7 @@ A Key Takeaways summarizes insights from all dashboards by highlighting importan
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 🔍 Key Business Impact
+## Key Business Impact
 This analytics dashboard helps hospitals:
 
 - Monitor emergency department performance
@@ -105,7 +105,7 @@ The insights generated from the dashboard can support hospital administrators in
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 Possible enhancements for this project include:
 
 - Integrating real-time hospital data
@@ -115,12 +115,12 @@ Possible enhancements for this project include:
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 The **Hospital Emergency Room Analytics Dashboard** demonstrates how data analytics and visualization tools like Power BI can transform raw healthcare data into actionable insights. By analyzing key operational metrics, the project highlights how data-driven dashboards can help improve efficiency, patient care, and decision-making in healthcare environments.
 
 ---
 
-## 👩‍💻 Author
+## Author
 **Rachana Hebbar**
 
 Aspiring Data Analyst transitioning from an engineering background with experience in **SQL, Power BI, Excel, and Python**. Passionate about transforming data into meaningful insights and building impactful analytics dashboards.
