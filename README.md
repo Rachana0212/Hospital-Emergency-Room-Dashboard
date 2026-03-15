@@ -72,7 +72,10 @@ Shows the distribution of patients based on gender to understand demographic tre
 ## 📊 Dashboard Preview
 
 ### Consolidated Dashboard
+
 ![Consolidated Dashboard](consolidated_dashboard.png)
+
+-------------------------------------------------------------------
 
 ### Monthly View
 ![Monthly View](monthly_view.png)
