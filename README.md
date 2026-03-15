@@ -67,30 +67,30 @@ Shows the distribution of patients based on gender to understand demographic tre
 ## 📊 Dashboard Preview
 
 ### Emergency Room Dashboard
-## 📊 Dashboard Preview
-
-## 📊 Dashboard Preview
-
-### Consolidated Dashboard
-
-![Consolidated Dashboard](consolidated_dashboard.png)
-
--------------------------------------------------------------------
 
 ### Monthly View
+A Monthly View provides a month-by-month overview of key hospital metrics to track trends and performance over time. It helps identify patterns in patient admissions, demographics, referrals, and service efficiency.
 ![Monthly View](monthly_view.png)
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Consolidated Dashboard
+A Consolidated View summarizes key hospital metrics over a selected time period to provide a complete performance overview. It helps identify trends and patterns in patient flow and operational efficiency.
+![Consolidated Dashboard](consolidated_dashboard.png)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Patient Details
+A Patient Details View provides detailed patient-level information, including demographics, admission details, wait time, and department referrals. It helps analyze individual patient records for deeper insights and operational troubleshooting.
 ![Patient Details](patient_details.png)
 
-### Key Insights
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Key Takeaways
+A Key Takeaways summarizes insights from all dashboards by highlighting important trends, patterns, and anomalies. It provides clear and actionable insights to help stakeholders improve hospital operations and patient care.
 ![Key Takeaways](key_takeaways.png)
 
-
-
-
-
----
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🔍 Key Business Impact
 This analytics dashboard helps hospitals:
