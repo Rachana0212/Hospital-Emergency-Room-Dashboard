@@ -74,7 +74,7 @@ A Monthly View provides a month-by-month overview of key hospital metrics to tra
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Consolidated Dashboard
+### Consolidated View
 A Consolidated View summarizes key hospital metrics over a selected time period to provide a complete performance overview. It helps identify trends and patterns in patient flow and operational efficiency.
 ![Consolidated Dashboard](consolidated_dashboard.png)
 
