@@ -67,23 +67,20 @@ Shows the distribution of patients based on gender to understand demographic tre
 ## 📊 Dashboard Preview
 
 ### Emergency Room Dashboard
-<h2 align="center">Dashboard Preview</h2>
+## 📊 Dashboard Preview
 
-<p align="center">
-<img src="Dashboards/Consolidated_View.png" width="800">
-</p>
+### Consolidated Dashboard
+![Consolidated Dashboard](Images/consolidated_dashboard.png)
 
-<p align="center">
-<img src="Dashboards/Monthly_View.png" width="800">
-</p>
+### Monthly View
+![Monthly View](Images/monthly_view.png)
 
-<p align="center">
-<img src="Dashboards/Patient_Details.png" width="800">
-</p>
+### Patient Details
+![Patient Details](Images/patient_details.png)
 
-<p align="center">
-<img src="Dashboards/Key_Takeways.png" width="800">
-</p>
+### Key Insights
+![Key Takeaways](Images/key_takeaways.png)
+
 
 
 
