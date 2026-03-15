@@ -21,7 +21,7 @@ The main objectives of this project are:
 
 ---
 
-## 🛠 Tools & Technologies Used
+## Tools & Technologies Used
 - **Power BI** – Data visualization and dashboard development  
 - **Microsoft Excel** – Data storage and preprocessing  
 - **Power Query** – Data cleaning and transformation  
